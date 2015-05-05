@@ -4,8 +4,8 @@
 
 * Compile Java files:
 
-	javac gameWorld.java
+        javac gameWorld.java
 
 * Run applet:
 
-	appletviewer gameWorld.html
+        appletviewer gameWorld.html
